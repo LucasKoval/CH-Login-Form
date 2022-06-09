@@ -1,0 +1,24 @@
+{
+  "name": "ch-login-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasKoval/CH-Login-Form.git"
+  },
+  "author": "Lucas Koval",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasKoval/CH-Login-Form/issues"
+  },
+  "homepage": "https://github.com/LucasKoval/CH-Login-Form#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.4.1"
+  }
+}
